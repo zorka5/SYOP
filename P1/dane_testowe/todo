@@ -1,0 +1,23 @@
+[x] add drawing temps for each room
+[] move query from read rows to some room method
+[x] if no given timestamp find first previous
+[x] calculate to celsius
+[x] pomiary jako punkty na wykresie
+[] rounding measurements?
+[] find time delay
+[x] rysowanie wykresów dla danego pokoju
+[] znajdowanie wzorów dla danej odpowiedzi skokowej
+[] klasa StepResponse - measurement window?
+[] metoda rysująca: dodać boole do wybierania czy rysować reż stan zaworów, okien itp
+[x] change writing to csv files to returning pandas dataframes
+[x] add outdoor temp to model
+[x] change match function to return two dataframes with same timestamps
+[x] change merge function to take one list of dataframes
+[] save model to uniformed format
+[] verify format to be ridden by rust lang
+[] add plotting e to plots (training, testing, regulation)
+[x] fix read_rows_to_records
+[] add min max specific to every sensor
+[] add grid to plots
+[] mnin max dict to json generator
+[] add room recognitionto sensor for plotting
